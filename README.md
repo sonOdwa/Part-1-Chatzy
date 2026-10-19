@@ -1,2 +1,2 @@
-# Part-1-Chatzy
+# Chatzy
 Registration and login class
